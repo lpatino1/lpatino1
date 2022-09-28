@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 Pronouns: She/Her/Hers
 
 I'm an aspiring software engineer with interest in full stack development. I hold a certificate from the University of Washington Full stack coding bootcamp.:school: 
 
@@ -32,8 +33,10 @@ Technologies I'm familiar with :computer:
 
 Interests 🤔
 ---
+[] React! React! React!
+[] Enjoying an afternoon with a book in my lap
+[] Further refining my developing skills
 
-
-Connect with me
+Connect with me :mailbox:
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-lpatino1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lesli-patino-02a079251/)](https://www.linkedin.com/in/lesli-patino-02a079251/)
