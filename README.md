@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm an aspiring software engineer with interest in full stack development. I hold a certificate from the University of Washington Full stack coding bootcamp.:school: 
 
 
-Technologies I'm familiar with :laptop:
+Technologies I'm familiar with :computer:
 ---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -26,7 +26,6 @@ Technologies I'm familiar with :laptop:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
