@@ -1,22 +1,12 @@
 ### Hey! Welcome to my GitHub...
 
-<!--
-**lpatino1/lpatino1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 😄 Pronouns: She/Her/Hers
 
 I'm an aspiring software engineer with interest in full stack development. I hold a certificate from the University of Washington Full stack coding bootcamp.:school: 
+
+Currently I'm...
+---
+Looking for an opportunity to join a wonderful team to continue refining my dev skills!
 
 
 Technologies I'm familiar with :computer:
@@ -33,9 +23,11 @@ Technologies I'm familiar with :computer:
 
 Interests 🤔
 ---
-[] React! React! React!
-[] Enjoying an afternoon with a book in my lap
-[] Further refining my developing skills
+:white_small_square: React! React! React!  
+:white_small_square: Enjoying an afternoon with a book in my lap  
+:white_small_square: MongoDb
+
+
 
 Connect with me :mailbox:
 ---
